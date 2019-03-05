@@ -7,7 +7,7 @@ from random import randint
 
 # Constants
 TEXT = 'Hello! We are New Media Development :)'
-SPEED = 0.1
+SPEED = 0.001
 
 # function: get_random_color()
 def get_random_color():
